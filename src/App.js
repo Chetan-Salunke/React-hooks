@@ -1,5 +1,6 @@
 import './App.css';
 import Count from './components/Count';
+import Events from './components/Events';
 import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import Refhook from './components/Refhook';
@@ -13,6 +14,7 @@ function App() {
     <Count/>
     <Timer/>
     <Refhook/>
+    <Events/>
     </>
   );
 }
