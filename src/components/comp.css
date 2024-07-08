@@ -1,0 +1,14 @@
+.count{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+.btn1{
+    padding-right: 15px;
+}
+.btn2{
+    padding-right: 15px;
+}

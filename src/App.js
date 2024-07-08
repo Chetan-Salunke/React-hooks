@@ -11,10 +11,10 @@ function App() {
     <>
     <Navbar  title="Apple Form" name="Enter your Name" btn="Submit Button"/>
     <Footer title="Footer Page"/>
-    <Count/>
     <Timer/>
     <Refhook/>
     <Events/>
+    <Count/>
     </>
   );
 }
