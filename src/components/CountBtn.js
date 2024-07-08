@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import "./comp.css"
 
-export default function Count() {
+export default function CountBtn() {
 
   const [count, setCount] = useState(0);
 

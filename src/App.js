@@ -1,5 +1,6 @@
 import './App.css';
-import Count from './components/Count';
+import CountBtn from './components/CountBtn';
+import CountHover from './components/CountHover';
 import Events from './components/Events';
 import Footer from './components/Footer';
 import Navbar from './components/Navbar';
@@ -14,7 +15,8 @@ function App() {
     <Timer/>
     <Refhook/>
     <Events/>
-    <Count/>
+    <CountBtn/>
+    <CountHover/>
     </>
   );
 }
